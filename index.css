@@ -1,0 +1,112 @@
+*{
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+h1{
+    font-family:'Chelsea Market';
+    font-size:30px;
+}
+
+nav{
+    display:inline-block;
+    height:20px;
+    width:80%;
+    position:relative;
+    margin-left:40px;
+    padding:60px;
+    
+}
+
+nav a{
+    border-radius:15px;
+    text-decoration:none;
+    padding:2% 3%;
+}
+     
+
+.link1{
+    background-color:#FF764E;
+    color:white;
+    margin:75px;
+    padding:15px;
+
+
+}
+.link2{
+    background-color:#5ED3EB;
+    color:white;
+    margin:75px;
+    padding:15px;
+}
+.link3{
+    background-color:#FFCD69;
+    color:white;
+    margin:75px;
+    padding:15px;
+}
+section{
+    display:inline-block;
+    /* vertical-align:middle; */
+}
+section img{
+    width:200px;
+    border-radius:50%;
+    margin-left:50px;
+    /* vertical-align:middle; */
+    display:in-line;
+    float:left;
+    margin-right:70px;
+}
+.about{
+    display:inline;
+    width: 1000px;
+    margin:auto 0;
+    /* vertical-align:middle; */
+    margin-left:100px;
+}
+.wilderness{
+    display:right;
+}
+.reservations{
+    display:block;
+}
+/* .yosemite{
+    display:inline-block;
+    bottom:40px;
+    margin-left:200px
+
+} */
+.paragraphs{
+    background-color:#DDB9A3;
+    color:white;
+    text-align:center;
+}
+.campfire{
+    margin:0 auto;
+    text-align:center;
+    width:35%;
+
+}
+.campfire img{
+    width:200px;
+
+}
+.camping{
+    margin:0 auto;
+    text-align:center;
+    width:35%;
+}
+.camping img{
+    width:200px;
+    align-items:center;
+    
+}
+footer{
+    background-color:#F9E7DC;
+    bottom:40px;
+}
+img{
+    width:100%;
+    height:auto;
+}
